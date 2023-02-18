@@ -3938,3 +3938,5 @@ sudo python3 usbkill.py
 ![image](https://user-images.githubusercontent.com/100603074/217654429-98efef6d-b70f-48b8-8979-228ce2f78932.png)
 
 *Image used from https://en.wikipedia.org/wiki/USBKill*
+
+Modified readme of A-POC cheetsheet
